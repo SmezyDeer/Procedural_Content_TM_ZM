@@ -7,4 +7,7 @@
   <ItemGroup>
     <PackageReference Include="ImGui.NET" Version="1.91.6.1" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Shaders\heightmap_compute.glsl" />
+  </ItemGroup>
 </Project>
